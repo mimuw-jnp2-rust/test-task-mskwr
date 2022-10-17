@@ -1,5 +1,7 @@
+#![allow(dead_code)]
+
 fn test() -> bool {
-   false
+   true
 }
 
 fn main() {
