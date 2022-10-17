@@ -1,6 +1,6 @@
 #![allow(dead_code)]
 fn test() -> bool {
-   true
+    true
 }
 
 fn main() {
